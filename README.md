@@ -3,6 +3,6 @@
 
 Hi, i'm Alex
 
-Trabanjando en mi 👇
+Trabajando en mi 👇
 # Hyperblog
 Aprendiendo a Usar Git y Github con @Platzi 
